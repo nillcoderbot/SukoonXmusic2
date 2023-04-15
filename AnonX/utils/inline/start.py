@@ -47,13 +47,13 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="🏠𝐎𝐟𝐟𝐢𝐜𝐞🏠", url=f"https://t.me/VIP_CREATORS",
+                text="🏠𝐎𝐟𝐟𝐢𝐜𝐞🏠", url=f"https://t.me/nillcoderbot",
             )
         ],
         [
             InlineKeyboardButton(
                 text="🌱ƨσʋяcɛ🌱",
-                url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC",
+                url=f"https://telegram.me/nillcoderbot",
             )
         ],
      ]
